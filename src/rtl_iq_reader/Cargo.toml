@@ -1,0 +1,8 @@
+[package]
+name = "rtl_iq_reader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rtlsdr = "0.1.4"
+
